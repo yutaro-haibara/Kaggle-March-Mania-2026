@@ -3,12 +3,11 @@
 
 1.概要
 - 目的：過去のスタッツに基づき、全対戦カードの勝利確率を予測。
-- スコア：Brier Score [自分のスコアを記入]
+- スコア：Brier Score　0.18
 
 2.使用した方法
 - 言語：Python
 - ライブラリ：Pandas, Scikit-learn (Random Forest / Logistic Regression)
-- 手法：[例：チームごとのレーティング算出、シード順位の重み付けなど]
 
 3.特徴
 - 基本に忠実に特徴量エンジニアリングを行った
